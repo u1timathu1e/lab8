@@ -1,0 +1,11 @@
+.login-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.weather-screen {
+  padding: 50px;
+  height: 100%;
+  color: #3C3B37;
+}
